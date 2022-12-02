@@ -1,0 +1,3 @@
+
+
+# trainer = ListTrainer(bot)
